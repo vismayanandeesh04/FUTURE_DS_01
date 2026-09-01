@@ -100,12 +100,3 @@ The interactive filters allow users to explore the dashboard from different pers
 
 This project demonstrates how **Power BI can be used to transform sales data into meaningful and interactive visual insights**. The dashboard provides an easy way to explore sales performance and compare different products, categories, segments, and regions. This project also helped develop practical skills in **data visualization, dashboard design, data analysis, Power Query, and Power BI**.
 
----
-
-## 👩‍💻 Internship
-
-**Future Interns – Data Science & Analytics Internship**
-
-**Task:** Task 01 – Sales Performance Dashboard
-
-**Project:** Sales Performance Dashboard using Power BI
