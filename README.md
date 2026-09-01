@@ -10,9 +10,7 @@ The project focuses on creating an interactive **Sales Performance Dashboard usi
 
 ## 📌 Project Overview
 
-The Sales Performance Dashboard provides a visual representation of sales performance across different product categories, customer segments, and other available dimensions in the dataset.
-
-The dashboard is designed to make sales data easier to understand and helps users identify important patterns and differences in sales performance.
+The Sales Performance Dashboard provides a visual representation of sales performance across different product categories, customer segments, and other available dimensions in the dataset. The dashboard is designed to make sales data easier to understand and helps users identify important patterns and differences in sales performance. It enables decision makers to monitor business performance, identify key profits, and uncover areas needing improvement.
 
 ---
 
