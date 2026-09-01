@@ -2,8 +2,6 @@
 
 ## Sales Performance Dashboard using Power BI
 
-This project was developed as part of the **Future Interns Data Science & Analytics Internship – Task 01**.
-
 The project focuses on creating an interactive **Sales Performance Dashboard using Microsoft Power BI** to analyze sales data and present important business information through visualizations and interactive filters.
 
 ---
@@ -53,6 +51,18 @@ The dashboard includes:
 
 ---
 
+## 📈 Key Performance Indicators (KPIs)
+
+| **Metric** | **Value** | **Description** |
+| ---------- | --------- | --------------- |
+| **Total Sales** | **1.16M** | Total sales generated for the selected Consumer segment |
+| **Top Sales Region** | **West** | Region generating the highest sales |
+| **Top Sales Category** | **Technology** | Category contributing the highest sales |
+| **Best Sales Year** | **2017** | Year with the highest sales performance |
+| **Selected Customer Segment** | **Consumer** | Customer segment currently selected in the dashboard |
+
+---
+
 ## 🔍 Key Insights
 
 The dashboard helps users understand:
@@ -88,11 +98,7 @@ The interactive filters allow users to explore the dashboard from different pers
 
 ## 💡 Conclusion
 
-This project demonstrates how **Power BI can be used to transform sales data into meaningful and interactive visual insights**.
-
-The dashboard provides an easy way to explore sales performance and compare different products, categories, segments, and regions.
-
-This project also helped develop practical skills in **data visualization, dashboard design, data analysis, Power Query, and Power BI**.
+This project demonstrates how **Power BI can be used to transform sales data into meaningful and interactive visual insights**. The dashboard provides an easy way to explore sales performance and compare different products, categories, segments, and regions. This project also helped develop practical skills in **data visualization, dashboard design, data analysis, Power Query, and Power BI**.
 
 ---
 
